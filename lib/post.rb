@@ -1,7 +1,7 @@
 class Post
   
   def initialize(title)
-    @name = name
+    @title = name
   end
   
 end
