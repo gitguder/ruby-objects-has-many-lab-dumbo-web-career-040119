@@ -11,4 +11,7 @@ class Artist
     @@all
   end
   
+  def has_and_belongs_to_many
+  end
+  
 end
