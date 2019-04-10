@@ -13,5 +13,6 @@ class Author
   
   def posts
     
-  end  
+  end
+  
 end
