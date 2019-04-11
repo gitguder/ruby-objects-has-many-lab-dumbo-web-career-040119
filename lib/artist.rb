@@ -14,7 +14,9 @@ class Artist
   end
   
   def songs
-    
+    Song.all.select do |artist|
+      
+    end
   end
   
 end
