@@ -14,7 +14,7 @@ class Artist
   end
   
   def songs(song)
-    Song.new()
+    #Song.new()
   end
   
 end
