@@ -14,10 +14,7 @@ class Artist
   end
   
   def songs
-    Song.all.select do |artist|
-      binding.pry
-      artist
-      #binding.pry
+    Song.new()
     end
   end
   
