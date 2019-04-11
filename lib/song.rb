@@ -11,4 +11,8 @@ class Song
     @@all
   end
   
+  def artist
+    
+  end
+  
 end
