@@ -13,8 +13,7 @@ class Artist
     @@all
   end
   
-  def songs(song)
-    #Song.new()
+  def songs
   end
   
 end
